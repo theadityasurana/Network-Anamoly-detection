@@ -138,10 +138,3 @@ DBSCAN(D, eps, MinPts)
 
 - The results for each algorithm and the evaulation are explained in details in each notebook. [K-means](k-means-clustering.ipynb), [Spectral Clustering](spectralClustering.ipynb), [Hierarchical Clustering](hierarchicalClustering.ipynb) and [DBSCAN](DBSCAN.ipynb).
  
-## Contributors
-
-- [Yousef Kotp](https://github.com/yousefkotp)
-
-- [Mohamed Farid](https://github.com/MohamedFarid612)
-
-- [Adham Mohamed](https://github.com/adhammohamed1)
